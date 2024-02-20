@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: app/src/main/resources/application.properties
+  checksum: 23a8b286b10e2009396f5fa0efead91acd23954edacdfa6570f9d6f0fae51e71
+- filename: .idea/uiDesigner.xml
+  checksum: 146eeae797db9b77bb04bd43a344aea620f5f739914e4e1566b396f9912ee6f4
+version: ""
